@@ -77,3 +77,5 @@ fun SearchBar(modifier: Modifier = Modifier){
 fun Preview(){
     MainScreen(name = "Hi")
 }
+
+@Composable
